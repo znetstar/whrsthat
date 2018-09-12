@@ -1,0 +1,17 @@
+.git
+
+# Ignore bundler config.
+/.bundle
+
+# Ignore all logfiles and tempfiles.
+/log/*
+!/log/.keep
+/tmp
+
+.env
+vendor/assets/components
+public/photos
+.byebug_history
+docker-compose.yml
+Gemfile.lock
+.DS_Store
