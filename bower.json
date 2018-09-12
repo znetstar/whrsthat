@@ -4,7 +4,7 @@
   "description": "",
   "main": "",
   "moduleType": [],
-  "license": "MIT",
+  "license": "Apache-2.0",
   "ignore": [
     "**/.*",
     "node_modules",
