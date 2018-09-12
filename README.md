@@ -1,7 +1,7 @@
 What's WhrsThat?
 ========================
 
-WhrsThat? is a web application that makes sharing an active or future event easy and simple! Communicate your location through an image, coordinate todos with your friends, and create a unique story to share with your friends.
+WhrsThat is a web application that makes sharing an active or future event easy and simple! Communicate your location through an image, coordinate todos with your friends, and create a unique story to share with your friends.
 
 Coming soon to a device near you...
 
